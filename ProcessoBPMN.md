@@ -6,7 +6,7 @@
 
 - Assim é usado para otimizar processos, eliminando tarefas repetitivas e demoradas, assim os colaboradores tem melhor eficiência, e agiliza o tempo de lançamento no mercado, assim tendo uma melhor experiência de usuário final.
 
-  **Qual o ciclo de vida do gerenciamento de processos de negócio?**
+  **Qual o ciclo de vida do gerenciamento de processos de negócio?**🔎
 
 **Identificar:** Identificar e definir as etapas de melhoria.
 
@@ -17,3 +17,5 @@
 **Monitorar:** Acompanhar o desempenho do processo, se está havendo resultados positivos.
 
 **Otimizar:** Melhorar ainda mais,  assim cada ciclo trabalhando de forma otimizada e inteligente. 
+
+​                                                                                                                                                                       
