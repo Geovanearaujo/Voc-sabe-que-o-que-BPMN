@@ -18,4 +18,8 @@
 
 **Otimizar:** Melhorar ainda mais,  assim cada ciclo trabalhando de forma otimizada e inteligente. 
 
+
+
+Abraços!
+
 ​                                                                                                                                                                       
